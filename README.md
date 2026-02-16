@@ -2,7 +2,7 @@
 
 🎓 Software Engineering student  
 🚀 Rocketseat student  
-💻 Learning Web Development  
+💻 Learning Full-Stack Development
 
 ## Currently learning
 
