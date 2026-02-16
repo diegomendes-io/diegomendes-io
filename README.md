@@ -20,4 +20,4 @@ I'm currently building my skills and projects to become a professional developer
 
 ---
 
-👋 Thanks for visiting my profile!
+Thanks for visiting my profile!
